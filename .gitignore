@@ -288,3 +288,6 @@ typings/
 .dynamodb/
 
 # End of https://www.gitignore.io/api/node,java,eclipse,netbeans,intellij
+
+# Generic Ignore files
+.DS_Store
